@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Grekov Software built the Text Contact app as an Ad Supported app. This SERVICE is provided by Grekov Software at no cost and is intended for use as is. 
+Grekov Software built the Text Contact app as an Ad Supported app. This Service is provided by Grekov Software at no cost and is intended for use as is. 
 
 This page is used to inform users regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use this Service. 
 
