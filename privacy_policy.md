@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Grekov Software built the Text Contact app as an Ad Supported app. This Service is provided by Grekov Software at no cost and is intended for use as is. 
+Grekov Software built the Text Contact app as an Ad Supported app. This SERVICE is provided by Grekov Software at no cost and is intended for use as is. 
 
 This page is used to inform users regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use this Service. 
 
@@ -9,7 +9,11 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to contacts, contacts backup files. Requested information will be retained on your device and is not collected by us in any way. 
+When using this Service, we may require you to provide access to certain personal information, including, but not limited to, contacts, as well as limited access to the device's file system.
+
+The application reads device contacts data (Contact names, phone numbers, e-mail addresses) and saves them on the device as files to ensure the operation of its main functions: creating files with backup copies of contacts, transferring these files and/or contacts to other applications on the device, as well as restoring contacts from such files. The described functions can be carried out solely on your initiative, as a user of the application, while you independently determine the amount of such data.
+
+The requested information will be stored on your device and will not be collected by us in any way.
 
 The app does use third-party services that may collect information used to identify you. 
 
